@@ -4,4 +4,4 @@
 
 asdasd
     as
-d*/
+d* /
